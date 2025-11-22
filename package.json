@@ -1,0 +1,14 @@
+{
+  "name": "com.kazky.ide.antigravity",
+  "displayName": "Antigravity Editor",
+  "description": "Antigravity AI editor integration for Unity. Adds support for generating csproj files for intellisense purposes, auto discovery of installations, and seamless AI-powered coding assistance within Unity workflows.",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "unityRelease": "25f1",
+  "dependencies": {
+    "com.unity.test-framework": "1.1.9"
+  },
+  "_upm": {
+    "changelog": "Initial Release:\n\n- Add Antigravity integration\n- Auto-discovery of Antigravity installations\n- Project file generation support\n- Cross-platform support (Windows, macOS, Linux)"
+  }
+}
